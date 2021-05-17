@@ -27,7 +27,8 @@
      ap_materno: string;
      edad: number;
      habilidades: string[],
-     puebloNatal?:string
+     puebloNatal?:string,
+     hp?:number
  };
  
  const usuario : Usuario ={
